@@ -20,6 +20,15 @@
                     hreflang="en"
                     href="https://www.gregorytagnyprojects.github.io/dashboard/"
                     /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/titanic/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/titanic/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/titanic/"
+                    /></url><url>
             <loc>https://www.gregorytagnyprojects.github.io/intruder-detector/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
@@ -56,6 +65,60 @@
                     hreflang="en"
                     href="https://www.gregorytagnyprojects.github.io/regression/"
                     /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/categories/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/categories/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/tags/classifier/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/tags/classifier/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/tags/classifier/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/tags/machine-learning/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/tags/machine-learning/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/tags/machine-learning/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/posts/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/posts/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/tags/python/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/tags/python/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/tags/python/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/tags/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.gregorytagnyprojects.github.io/fr/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://www.gregorytagnyprojects.github.io/tags/"
+                    /></url><url>
             <loc>https://www.gregorytagnyprojects.github.io/tags/api/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
@@ -73,42 +136,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://www.gregorytagnyprojects.github.io/tags/aws/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/categories/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.gregorytagnyprojects.github.io/fr/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://www.gregorytagnyprojects.github.io/categories/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/posts/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.gregorytagnyprojects.github.io/fr/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://www.gregorytagnyprojects.github.io/posts/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/tags/python/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.gregorytagnyprojects.github.io/fr/tags/python/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://www.gregorytagnyprojects.github.io/tags/python/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/tags/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.gregorytagnyprojects.github.io/fr/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://www.gregorytagnyprojects.github.io/tags/"
                     /></url><url>
             <loc>https://www.gregorytagnyprojects.github.io/tags/kaggle/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -190,15 +217,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://www.gregorytagnyprojects.github.io/tags/k-means/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/tags/machine-learning/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.gregorytagnyprojects.github.io/fr/tags/machine-learning/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://www.gregorytagnyprojects.github.io/tags/machine-learning/"
                     /></url><url>
             <loc>https://www.gregorytagnyprojects.github.io/tags/cbind/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
